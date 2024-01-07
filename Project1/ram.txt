@@ -1,0 +1,3 @@
+ADD 5 7
+SUB 6
+PUSH 7
